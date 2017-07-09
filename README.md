@@ -1,3 +1,7 @@
 # TF-IDF
-algorithm extracting term frequency and inverse document frequency for bunch of documents using python 
+Algorithm for calculating term frequency (TF) and inverse document frequency (IDF) for bunch of documents using python and numpy.
+
+https://en.wikipedia.org/wiki/Tf%E2%80%93idf
+
+Suggestions are wellcome 
 
